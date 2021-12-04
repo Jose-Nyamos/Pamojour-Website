@@ -1,0 +1,37 @@
+
+@media (min-width: 768px) {
+.PeopleImage {
+    background-image: url('../../images/people.png');
+  }}
+
+.menu {
+    opacity: 0.6;
+}
+.divider {
+	width:200px;
+	text-align:center;
+}
+
+.divider hr {
+	margin-left:auto;
+	margin-right:auto;
+	width:40%;
+
+}
+
+.left {
+	float:left;
+}
+
+.right {
+	float:right;
+}
+input {
+  outline: 0;
+  border-width: 0 0 2px;
+  border-color: black;
+  width: 100%;
+}
+input:focus {
+  border-color: black;
+}

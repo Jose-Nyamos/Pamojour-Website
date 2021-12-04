@@ -1,0 +1,15 @@
+@media (min-width: 768px) {
+    .navbar .navbar-nav {
+        display: flex;
+        float: none;
+        vertical-align: top;
+    }
+
+    .header{
+        text-align: right;
+        display: flex; 
+        height:40px; 
+        color: black;
+        list-style: square;
+    }
+}
